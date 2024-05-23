@@ -23,6 +23,7 @@
 <홈페이지 구성>
 
 1. About Me
-2. My Poster
-3. My Favorite Picture
-4. My Favorite Youtube Video
+2. Language I Can Do
+3. My Conference Poster
+4. My Favorite Picture
+5. My Favorite Youtube Video
